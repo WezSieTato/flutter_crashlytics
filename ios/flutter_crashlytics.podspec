@@ -16,8 +16,8 @@ Flutter plugin to enable Crashlytics reporting.
   s.static_framework = true
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'Fabric'
-  s.dependency 'Crashlytics'
+#  s.dependency 'Fabric'
+#  s.dependency 'Crashlytics'
 
   s.ios.deployment_target = '8.0'
 end
